@@ -3,8 +3,6 @@
 
 A web application to perform various downstream tasks in Natural Language Processing (NLP) such as text classification, text generation, summarization, named entity recognition (NER), and question answering. Built using Streamlit, Hugging Face Transformers, and LangChain.
 
-![Project Logo](link-to-project-logo.png)  <!-- Optional: Add your project logo here -->
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -61,3 +59,12 @@ cd nlp-downstream-tasks-webapp
 
 # Install dependencies
 pip install -r requirements.txt
+
+# Run
+streamlit run app.py
+
+## Technolgies Used
+- Streamlit: A framework for creating interactive web applications.
+- Hugging Face Transformers: A library for state-of-the-art NLP models.
+- LangChain: A library for chaining together multiple NLP models and tasks.
+- Python: The primary programming language for development.
