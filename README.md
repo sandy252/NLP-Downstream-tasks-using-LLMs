@@ -10,7 +10,6 @@ A web application to perform various downstream tasks in Natural Language Proces
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Examples](#examples)
 - [Contact](#contact)
 
 ## Introduction
@@ -44,21 +43,21 @@ This web application leverages powerful NLP models from Hugging Face Transformer
   - Useful for SEO, content analysis, and information retrieval.
   - Customizable for different languages and domains.
 
-## Installation
+# Installation
 Follow these steps to set up the project locally:
-# Clone the repository
+## Clone the repository
 ```bash
 git clone https://github.com/yourusername/nlp-downstream-tasks-webapp.git
 ```
-# Navigate to the project directory
+## Navigate to the project directory
 ```bash
 cd nlp-downstream-tasks-webapp
 ```
-# Install dependencies
+## Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
-# Run
+## Run
 ```bash
 streamlit run app.py
 ```
