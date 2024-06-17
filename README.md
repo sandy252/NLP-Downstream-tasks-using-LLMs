@@ -11,8 +11,6 @@ A web application to perform various downstream tasks in Natural Language Proces
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -68,3 +66,8 @@ streamlit run app.py
 - Hugging Face Transformers: A library for state-of-the-art NLP models.
 - LangChain: A library for chaining together multiple NLP models and tasks.
 - Python: The primary programming language for development.
+
+## contact
+- Email : kashyapsandeep252@gmail.com
+- github : sandy252
+- LinkedIn : https://www.linkedin.com/in/sandeepkashyap7/
